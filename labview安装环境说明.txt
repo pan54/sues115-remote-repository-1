@@ -1,0 +1,15 @@
+-------------------------------------------
+*****噪声源识别系统的labview安装环境：*****
+-------------------------------------------
+
+(所有安装软件在"C:\National Instruments Downloads")
+
+安装列表：
+
+1.labview版本：2018
+2.需要组件：”NIPackageManager
+3.需要组件：NI-DAQmx
+4.需要组件：NI-SV  (sound)
+5.需要组件：vision_2018SP1
+6.激活工具
+7.需要组件：VAS1851（vision acquisition）
