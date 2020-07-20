@@ -13,6 +13,7 @@
 		<Item Name="Message Queue.lvlib" Type="Library" URL="../support/Message Queue/Message Queue.lvlib"/>
 		<Item Name="UI test.vi" Type="VI" URL="../UI test.vi"/>
 		<Item Name="初始设置.vi" Type="VI" URL="../初始设置.vi"/>
+		<Item Name="通道.vi" Type="VI" URL="../通道.vi"/>
 		<Item Name="阵型选择.vi" Type="VI" URL="../阵型选择.vi"/>
 		<Item Name="依赖关系" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -172,6 +173,7 @@
 				<Item Name="NI_Vision_Acquisition_Software.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/driver/NI_Vision_Acquisition_Software.lvlib"/>
 				<Item Name="subDisplayMessage.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/DisplayMessageBlock.llb/subDisplayMessage.vi"/>
 			</Item>
+			<Item Name="DAQ设置.vi" Type="VI" URL="../DAQ设置.vi"/>
 			<Item Name="niimaqdx.dll" Type="Document" URL="niimaqdx.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
